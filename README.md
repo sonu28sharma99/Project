@@ -13,7 +13,7 @@ SVD++
 Hybrid Model  
 Content Based + SVD  
 ## Files contained in the project
-movie_recommendation_system.ipynb : python notebook code file
-movie_recommendation_system.html : html version of python notebook
-movies.csv : movies data from MovieLens dataset
-ratings.csv : rating given by user to movie from MovieLens dataset
+movie_recommendation_system.ipynb : python notebook code file  
+movie_recommendation_system.html : html version of python notebook  
+movies.csv : movies data from MovieLens dataset  
+ratings.csv : rating given by user to movie from MovieLens dataset  
